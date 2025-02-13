@@ -1,3 +1,8 @@
+// Index page for seminar management application
+import '../styles/globals.css';
+import React from 'react';
+import Head from 'next/head';
+import SeminarManagement from '../components/SeminarManagement';
 import '../styles/globals.css';
 import React from 'react';
 import Head from 'next/head';
