@@ -1,4 +1,3 @@
-// Index page for seminar management application
 import '../styles/globals.css';
 import React from 'react';
 import Head from 'next/head';
